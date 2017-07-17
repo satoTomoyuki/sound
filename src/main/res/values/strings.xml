@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">音声認識</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="spn_prompt">言語を選択して下さい</string>
+    <string-array name="spn_items">
+        <item>日本語</item>
+        <item>英語</item>
+       <item>中国語</item>
+    </string-array>
+
+</resources>
